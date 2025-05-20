@@ -1,1 +1,2 @@
-# Data Project Template
+# Forecasting currency exchange rates using recurrent neural networks
+
