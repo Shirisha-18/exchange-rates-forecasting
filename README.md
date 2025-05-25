@@ -121,3 +121,11 @@ Model currency triangle arbitrage opportunities using multi-pair relationships.
 
 ## References
 
+- Ince, Onur. "Forecasting Exchange Rates Out-of-Sample with Panel Methods and Real-Time Data." *University of Houston*.
+
+- Das, A., & Pramod, D. (2023). Exchange Rate Prediction with Machine Learning, Deep Learning, and Time Series Methods Using Alternative Data. In *2023 International Conference on Advancement in Computation & Computer Technologies (InCACCT)*, Gharuan, India, pp. 698-703.  
+DOI: [10.1109/InCACCT57535.2023.10141844](https://doi.org/10.1109/InCACCT57535.2023.10141844)
+
+- Zhao, Lu, and Wei Qi Yan. "Prediction of Currency Exchange Rate Based on Transformers." *Journal of Risk and Financial Management*, 2024, 17(8), 332.  
+DOI: [10.3390/jrfm17080332](https://doi.org/10.3390/jrfm17080332)  
+
